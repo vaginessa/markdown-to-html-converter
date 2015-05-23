@@ -1,7 +1,5 @@
-markdown-to-html-converter
+Markdown Converter
 ==================
-
-A project that combines whenchanged script, markdown.pl perl converter and bootstrap
 
 How to use
 ----------
